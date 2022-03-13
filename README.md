@@ -4,7 +4,6 @@ Hello there, I am Knei! I am going to be straight forward here but I really have
 class Profile_notKnei {
   constructor() {
     this.name = 'notKnei';
-    this.languages = ['Python', 'Node.js'];
     this.work = false;
     this.sleep = true;
   }
